@@ -33,23 +33,7 @@ The training in SoftUni has a duration of **1-2 years** (depending on the profes
 
 #### It Takes at Least a Year of Intense Code Writing to Become a Programmer
 
-Keep in mind that **to become a programmer takes a lot of effort**, writing tens of thousands of lines of code, and solving hundreds, even thousands of practical problems, and this takes years! If someone offers you "**an easier program**" and promises you to become a programmer and start working within 3-4 months, then either they are **lying** to you, or they will give you such a low level, that **companies won't even take you as a trainee**, even if you pay to the company that is wasting its time with you. There are exceptions, of course - for example, if you are not starting from scratch, or if you have extremely well-developed engineering thinking, or if you apply for a very low position (for example technical support), but in general, **you cannot become a programmer if you haven't spent at least 1 year of intense learning and code-writing**!
-
-<!-- to update -->
-<!-- #### Entrance Exam at SoftUni
-**To enroll at SoftUni** you need to attend an **entrance exam** in "Programming Basics" on the material from this book. If you easily solve the problems in this book, then you are ready for the exam. Also, pay attention to the chapters on **preparation for the practical exam in programming**. They will give you a good idea of the level of difficulty of the exam and the types of tasks that you need to learn to solve.
-
-If the tasks from the book and the preparation examples are hard for you, then you **need more preparation**. Go through the book carefully one more time, without skipping solving **the problems in any of the studied topics**! You must learn how **to solve them with ease**, without helping yourselves with the guidelines and the sample solutions. -->
-
-<!-- #### SoftUni Curriculum for Software Engineers
-
-What follows after the entrance exam is a **serious curriculum** in the SoftUni program for training software engineers. It is formed as a sequence of **modules in several courses** in programming and software technologies, fully directed towards gaining fundamental knowledge in software development and acquiring **practical skills for working** as a programmer with the most contemporary software technologies. Students are given a choice between **several professions** and specializations focused on C#, Java, JavaScript, PHP, and other languages and technologies. Each profession is trained in several modules with 4 months duration, and each module consists of 2 or 3 courses. The classes are divided into **theoretical preparation** (30%) and **practical exercises, projects** (70%), and each course ends with a practical exam or practical academic project. -->
-
-<!-- #### How Many Hours Per Day does The Training Take?
-
-The training for software engineers at SoftUni is a **very serious occupation** and you need to spend **at least 4-5 hours every day**, preferably your entire attention and time. Combining **working and training** is not always successful, but if you work something easy and you have a lot of spare time, it is a good option. SoftUni is an appropriate option for **school students, university students**, and **people who work**, but it is best if you assign your entire time to your training and mastering the profession. It will not work if you spend 2 or 4 hours a week on it!
-
-The forms of training at SoftUni are **on-site** (the better choice) and **online** (if you don't have another option). In both forms of training, to learn the program in the curriculum (that is required by software companies for starting a job), you need **a lot of learning**. You just need to **find the time for it!** Reason #1 for having a hard time on the road to the profession in SoftUni is not spending enough time for the training: as a minimum, you need to spend at least 20-30 hours a week. -->
+Keep in mind that **to become a programmer takes a lot of effort**, writing tens of thousands of lines of code, and solving hundreds, even thousands of practical problems, and this takes years! If someone offers "**an easier program**" with the promise of you becoming a programmer and landing a job within 3-4 months of starting the course, they are either **lying** to you, or providing a significantly lower-quality education that will not prepare you enough for even an intern position. There are exceptions, of course - for example, if you are not starting from scratch, or if you have extremely well-developed engineering thinking, or if you apply for a very low position (for example technical support), but in general, **you cannot become a programmer if you haven't spent at least 1 year of intense learning and code-writing**!
 
 #### SoftUni for People Who Work and Study
 
