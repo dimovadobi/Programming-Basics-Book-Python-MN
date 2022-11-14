@@ -60,13 +60,13 @@ We must emphasize once again that the choice of **the programming language is no
 
 Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the **Software Engineering Program**. Working with a variety of software libraries, APIs, frameworks, and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
 
-Only **initial knowledge in the areas listed above** is usually sufficient to start working as a programmer, and acquiring more in-depth knowledge takes place at the workplace according to the technologies and development tools used by the given company and team.
+**Basic knowledge in the areas listed above** is usually sufficient to start working as a programmer. You will gain a deeper understanding of the concepts from the technologies and development tools you use in your day-to-day work.
 
 ### Skill #4 - Programming Languages and Software Technologies (25%) 
 
 **Programming languages and software development technologies** form about 25% of the developer's minimum skills. They are the most voluminous to learn, but they change most quickly over time. If we look at **job advertisements** from the software industry, there are often all sorts of words mentioned (such as those listed below), but in fact, the ads silently **imply the first three skills**: to code, to think algorithmically, and to be proficient at the foundation of computer science and software engineering.
 
-For these purely technological skills, the **programming language is relevant**.
+**The choice of a programming language is essential** for acquiring technological skills.
 * **Note**: only for this 25% of the profession does programming language matter!
 * **For the remaining 75% of skills, language does not matter** and these skills are time-resilient and transferable between different languages and technologies.
 
@@ -79,17 +79,17 @@ Here are some commonly used software development stacks sought by software compa
 * **C++** + CMO + STL + Boost + native development + databases + HTTP + other languages 
 * **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages
 
-If the words listed above seem scary and incomprehensible to you, then you are quite at the beginning of your career and have **years to learn** until you reach the profession of a **software engineer**. Don't worry, every programmer goes through one or more technological stacks and has to study a **set of interconnected technologies**, but at the heart of it all is the **ability to write programming logic (coding)** that develops in this book, and the **ability to think algorithmically** (to solve programming tasks). You can not do without them!
+If the words listed above seem scary and incomprehensible to you, then you are quite at the beginning of your career and have **years to learn** until you reach the profession of a **software engineer**. Don't worry, every programmer goes through one or more technological stacks and has to study a **set of interconnected technologies**, but the most important skill is **writing programming logic (to code)** and **thinking algorithmically** (to solve programming problems). Becoming a good software engineer is impossible without those skills.
 
 ### Programming Language Doesn't Matter!
 
-As already made clear, **the difference between programming languages**, and more precisely between the skills of programmers in different languages and technologies, is in about **10-20% of skills**.
+As we already made clear, the technical skills, determined by mastering a specific programming language and technology, amount to about **10-20% of a software developer’s overall skillset**.
 * All programmers have about **80-90% of the same skills**, which do not depend on language! These are the skills to program and develop software, and they are very similar in different programming languages and development technologies.
 * The more languages and technologies you are proficient in, the faster you will learn new languages and the less you will feel a difference between them.
 
-Indeed, **the programming language is almost irrelevant**, you just need to learn to program, and this starts with **coding** (this book), continues in the more complex **concepts of programming** (such as data structures, algorithms, OOP, and FP), and involves the uptake of **fundamental knowledge and skills for software development, software engineering, and computer science**.
+Let us state once again that **the choice of programming language (mostly) does not matter** - you just need to learn to program. This process starts with **coding** (by reading this book or enrolling in a Software Engineer program), continues with mastering more **complex programming concepts** (like data structures, algorithms, OOP, and FP), and includes using **fundamental knowledge and skills for software development, software engineering, and computer science**.
 
-Finally, when you take on specific technologies in a software project, only then will you need a **specific programming language**, knowledge of specific program libraries (APIs), frameworks, and software technologies (front-end UI technologies, back-end technologies, ORM technologies, etc.). Relax, you will learn them, all programmers learn them, but first, they learn the foundation: **to code and to do it well**.
 
+You will need to know a **specific programming language**, program libraries (APIs), frameworks, and software technologies (front-end UI technologies, back-end technologies, ORM technologies, etc.) once you start working on a software project.
 
 This book uses the **Python** language, but it is not essential and can be replaced by Java, C#, JavaScript, PHP, C++, Ruby, Swift, Go, Kotlin, or any other language. To master **the profession of "software developer"** it is necessary to learn **to code** (20%), learn to **think algorithmically** and **solve problems** (30%), have a **fundamental knowledge of programming and computer science** (25%) and know a **specific programming language and the technologies relevant to it** (25%). Be patient, for a year or two, all this can be achieved at a good starting level, as long as you are serious and diligent.
