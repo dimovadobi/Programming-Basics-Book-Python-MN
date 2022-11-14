@@ -12,7 +12,7 @@ This book is developed by a broad author's team of **volunteers** who dedicated 
 
 > **Boncho Vulkov, Hristo Minkov, Iliya Iliev, Martin Tsarev, Miglen Evlogiev, Milena Angelova, Mirela Damyanova, Nikolay Kostov, Petar Ivanov, Petya Gospodinova, Svetlin Nakov, Tanya Evtimova, Tanya Staneva, Teodor Kurtev, Ventsislav Petrov, Vladimir Damyanovski, Yordan Darakchiev**
 
-The book is based on its initial C# variant ([Programming Basics with C#](https://csharp-book.softuni.org)), which is developed by a large team of authors that has a significant contribution to the current book. Below is a list of the additional book contributors (editors, translators, others):
+A large team of authors has a significant contribution to this book. Below is a list of the additional book contributors (editors, translators, others):
 
 > Aleksander Krastev, Aleksander Lazarov, Aleksander Peev, Aleksandra Stoycheva, Angel Dimitriev, Ariet Motzeva, Daniel Tsvetkov, Denis Milanov, Dimitar Dzhapunov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Dzhaner Hasan, Elena Rogleva, Hristiyan Hristov, Hristo Hristov, Iskra Nikolova, Ivelin Kirilov, Jordan Liubenov, Julieta Atanasova, Kalin Primov, Kaloyan Nenchev, Kristiyan Pamidov, Luboslav Lubenov, Martin Zhelev, Mihail Georgiev, Natali Dimitrova, Nikola Slavchev, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Rositsa Nenova, Ruslan Filipov, Simeon Stavrev, Stefka Vasileva, Svetlin Nakov, Teodor Kurtev, Tonyo Zhelev, Tsvetan Iliev, Vasko Viktorov, Venelin Bekyarov, Ventsislav Petrov, Yanitsa Vuleva, Yulian Linev, Zahariya Pehlivanova, Zhivko Nedyalkov.
 
@@ -24,7 +24,7 @@ The book is written in the period June-October 2018.
 
 The current book on **The basics of Python programming for beginners** is available for free use on the Internet from: 
 
-<p align="center"><strong><a href="https://python-book.softuni.org">https://python-book.softuni.org</a></strong></p>
+<p align="center"><strong><a href="https://python-book.softuni.mn">https://python-book.softuni.mn</a></strong></p>
 
 This is **the official website of the book** and there will be uploaded its latest version. The book has been similarly translated to other programming languages listed on its website. 
 
@@ -32,7 +32,7 @@ This is **the official website of the book** and there will be uploaded its late
 
 The book is distributed **for free** in electronic format under an open license **[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
-**The source code** of the book can be found on GitHub: https://github.com/SoftUni/Programming-Basics-Book-Python-EN.
+**The source code** of the book can be found on GitHub: https://github.com/SoftUni/Programming-Basics-Book-Python-MN.
 
 International Standard Book Number (ISBN): **978-619-00-1403-4**.
 
@@ -40,7 +40,7 @@ International Standard Book Number (ISBN): **978-619-00-1403-4**.
 
 If you find **bugs**, inaccuracies, or defects in the book, you can report them in the official tracker of the project:
 
-<p align="center"><strong><a href="https://github.com/SoftUni/Programming-Basics-Book-Python-EN/issues">https://github.com/SoftUni/Programming-Basics-Book-Python-EN/issues</a></strong></p>
+<p align="center"><strong><a href="https://github.com/SoftUni/Programming-Basics-Book-Python-EN/issues">https://github.com/SoftUni/Programming-Basics-Book-Python-MN/issues</a></strong></p>
 
 We can't promise that we will edit everything you send us, but we are willing to constantly improve the quality of this book so that the reported errors and all reasonable suggestions will be addressed.
 
