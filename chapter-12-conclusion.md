@@ -37,13 +37,8 @@ Keep in mind that **to become a programmer takes a lot of effort**, writing tens
 
 #### SoftUni for People Who Work and Study
 
-We recommend to everyone who gets **an excellent score at Judge Problems** and is passionate about making programming their profession, to leave the rest of their commitments aside and **spend their entire time** on learning the profession of a "software engineer" and start making a living through it.
+We recommend to everyone who gets **an excellent score at Judge Problems** and is passionate about making programming their profession, to consider leaving the rest of their commitments aside to **spend more time** on learning the profession of a software engineer and start making a living through it.
 
- - For people who **work** this means quitting their job (and getting a loan or decreasing their expenses, to live with a lower income for 1-2 years until they start working in the new profession).
- - For people who **study** in a traditional university, this means to move significantly their focus towards programming, by decreasing the time spent in the traditional university.
- - For **unemployed** people, this is an excellent chance to assign their entire time, power, and energy to acquire a new, perspective, well paid and highly sought profession, that will give them good life quality and long-term prosperity.
- - For **students** in secondary schools and high schools, this means **giving a priority** to what is more important in their development: studying practical programming in SoftUni, which will give them a profession and a job, or giving their full attention to the traditional education system, or combining smartly both undertakings. Unfortunately, often priorities are determined by parents, and we don't have a solution for these cases.
- 
 We recommend to all who **cannot get an excellent score at the Judge problems** to spend more time on better learning, understanding, and most of all, practicing the material studied in the present book. If you cannot easily solve the problems in this book, you will not be able to cope with programming and software development in the future.
 
 ## Online Communities for Beginners in Programming
