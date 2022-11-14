@@ -1,4 +1,4 @@
-## How to Become a Software Developer?
+# How to Become a Software Developer?
 
 Dear readers, many of you must have the ambition to become programmers, make a living with software development, or work in the IT sector. That is why we have prepared for you a **short guide "How to become a programmer"** to navigate you on the steps to this much-desired profession.
 
