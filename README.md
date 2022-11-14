@@ -46,7 +46,7 @@ Brief information about this edition:
 * ISBN: **978-619-00-1403-4** (9786190014034)
 * Edition: **Faber Publishing, Sofia, Dec 2021** (expected)
 * License: **CC-BY-SA**
-* Source code: https://github.com/SoftUni/Programming-Basics-Book-Python-EN
+* Source code: https://github.com/SoftUni/Programming-Basics-Book-Python-MN
 
 <!-- ## Free Practical Programming Course
 
