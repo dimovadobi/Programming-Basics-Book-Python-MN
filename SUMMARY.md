@@ -1,5 +1,6 @@
 * [Book "Programming Basics" with Python](README.md)
 * [Preface](chapter-00-preface.md)
+* [About SoftUni and SoftUni Judge](/chapter-00.1-about-softuni.md)
 * [1. First Steps in Programming](chapter-01-first-steps-in-programming.md)
 * [2.1. Simple Calculations](chapter-02-simple-calculations.md)
 * [2.2. Simple Calculations – Exam Problems](chapter-02-simple-calculations-exam-problems.md)
