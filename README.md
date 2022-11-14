@@ -34,15 +34,7 @@ Download the book "**Programming Basics with Python**" in **PDF** format:
 ## Book Editions
 
 This book is available in several versions in different programming languages:
-* [Programming Basics with C# (English)](https://csharp-book.softuni.org)
-* [Programming Basics with Java (English)](https://java-book.softuni.org)
-* [Programming Basics with JavaScript (English)](https://js-book.softuni.org)
-* [Programming Basics with Python (English)](https://python-book.softuni.org)
-* [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
-* [Programming Basics with Java (Bulgarian)](https://java-book.softuni.bg)
-* [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
-* [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
-* [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
+* [Programming Basics with Python (Mongolian)]()
 
 ## Book Details
 
