@@ -28,13 +28,13 @@ We pay special attention to the fact that **programming language doesn't have si
 Algorithmic (logical, engineering, mathematical, abstract) thinking forms about 30% of the minimum skills for a start in the profession. **Algorithmic thinking** is the ability to break a task into a logical sequence of steps (algorithm) and to find a solution for each step, then to put them together in a working solution for the initial task. This is the most important skill that the programmer has.
 
 How **to build algorithmic thinking**?
-* Algorithms for thinking are developed by reviewing **many (1000+) programming tasks**, using the most diverse of them. This is the recipe: reducing thousands of practical tasks, inventing an algorithm for them, and executing the algorithm, along with debugging errors along the way.
+* Review **many (1000+) programming tasks**, the more diverse, the better.. This is the recipe: reducing thousands of practical tasks, inventing an algorithm for them, and executing the algorithm, along with debugging errors along the way.
 * Physics, mathematics, and/or similar sciences help, but they are not restraining! People with **engineering and technical inclinations** usually learn to think logically easily, because they already have the skills for solving problems, although not algorithmic. 
 * The ability **to solve programming tasks** (which requires algorithmic thinking) is extremely important for programmers. Many companies require only this skill in job interviews.
 
-This book develops **a beginner's level of algorithmic thinking**, but it is not enough to make a good programmer. To become proficient in the professions, you will need to add **logical thinking skills and improve tasks** outside this book, such as **working with data structures** (arrays, lists, matrices, hash tables, tree structures) and basic **algorithms** (search, sorting, tree structures, recursion, etc.). 
+This book develops **a beginner's level of algorithmic thinking**, but it is not enough to make you a good programmer. To become proficient in the professions, you will need to add **logical thinking skills and improve tasks** outside this book, such as **working with data structures** (arrays, lists, matrices, hash tables, tree structures) and basic **algorithms** (search, sorting, tree structures, recursion, etc.). 
 
-As you may guess, **the programing language does not matter** for the development of algorithmic thinking. To think logically is universal, even if it's not related only to programming. Precisely because of the well-developed logical thinking, it is considered that **developers are quite smart** and that a simple-minded person could not be a developer.
+As you may guess, **the programing language does not matter** for the development of algorithmic thinking. To think logically is universal, even if it's not related only to programming. Because of their well-developed logical thinking, there is the misconception that all programmers are **smart people** and having a high IQ is a requirement for entering into the profession.
 
 ### Skill #3 – Fundamental Knowledge of The Profession (25%) 
 
@@ -56,9 +56,9 @@ As you may guess, **the programing language does not matter** for the developmen
 * **software engineering** - source control systems, development management, task planning and management, software development methodologies, software requirements and prototypes, software design, software architectures, software documentation.
 * **software testing** - unit testing, test-driven development, QA engineering, error reporting and error trackers, test automation, building processes, and continuous integration.
 
-We must make it clear another time that **the programming language is irrelevant** to the uptake of all these skills. They accumulate slowly, over many years of practice in the profession. Some knowledge is fundamental and can be learned theoretically, but it takes years of practice to fully understand them in depth.
+We must emphasize once again that the choice of **the programming language is not a significant factor** in acquiring these skills.. They accumulate slowly, over many years of practice in the profession. Some knowledge is fundamental and can be learned theoretically, but it takes years of practice to fully understand them in depth.
 
-Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the **Software Engineering Program**, as well as several elective courses. Working with a variety of software libraries, APIs, frameworks, and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
+Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the **Software Engineering Program**. Working with a variety of software libraries, APIs, frameworks, and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
 
 Only **initial knowledge in the areas listed above** is usually sufficient to start working as a programmer, and acquiring more in-depth knowledge takes place at the workplace according to the technologies and development tools used by the given company and team.
 
