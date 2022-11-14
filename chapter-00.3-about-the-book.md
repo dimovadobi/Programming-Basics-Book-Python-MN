@@ -6,7 +6,7 @@ In 2014, the SoftUni initiative was launched. In the beginning, it had a wider r
 
 SoftUni's free programming start-up trainings are probably the largest ever conducted in Bulgaria. On the principle of free software and free knowledge, Svetlin Nakov led a **team of volunteers** and started this open-source project, initially to create a book based on programming with the C# language and later with other programming languages.
 
-## Authors Team
+## Author Team
 
 This book is developed by a broad author's team of **volunteers** who dedicated their time to give away the systematized knowledge and guide you at the start of programming. Below is a list of the main book authors (in alphabetical order):
 
