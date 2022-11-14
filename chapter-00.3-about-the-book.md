@@ -26,7 +26,7 @@ The current book on **The basics of Python programming for beginners** is availa
 
 <p align="center"><strong><a href="https://python-book.softuni.mn">https://python-book.softuni.mn</a></strong></p>
 
-This is **the official website of the book** and there will be uploaded its latest version. The book has been similarly translated to other programming languages listed on its website. 
+This is **the official website of the book** and there will be uploaded its latest version. 
 
 ## License and Distribution 
 
