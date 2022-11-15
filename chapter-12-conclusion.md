@@ -49,7 +49,7 @@ If you aim to study programming seriously, **surround yourselves with people who
 
 Here are some recommended **resources**, that will be useful for your development as a programmer:
 * https://stackoverflow.com - **Stack Overflow** is one of the **widest** discussion forums for programmers worldwide, where you will find assistance for any possible question in the world of programming. If you are fluent in English, look up at StackOverflow and ask your questions there.
-* https://www.meetup.com/find/tech/ - search **tech meetups** around your town and enter the community that you like. More of the tech meetups are free and the newcomers are welcome.
+* https://www.meetup.com/ - search **tech meetups** around your town and enter the community that you like. More of the tech meetups are free and the newcomers are welcome.
 
 
 ## Good Luck to All of You!
