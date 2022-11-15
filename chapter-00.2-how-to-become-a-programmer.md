@@ -28,7 +28,7 @@ We pay special attention to the fact that **programming language doesn't have si
 Algorithmic (logical, engineering, mathematical, abstract) thinking forms about 30% of the minimum skills for a start in the profession. **Algorithmic thinking** is the ability to break a task into a logical sequence of steps (algorithm) and to find a solution for each step, then to put them together in a working solution for the initial task. This is the most important skill that the programmer has.
 
 How **to build algorithmic thinking**?
-* Review **many (1000+) programming tasks**, the more diverse, the better.. This is the recipe: reducing thousands of practical tasks, inventing an algorithm for them, and executing the algorithm, along with debugging errors along the way.
+* Review **many (1000+) programming tasks**, the more diverse, the better. This is the recipe: reducing thousands of practical tasks, inventing an algorithm for them, and executing the algorithm, along with debugging errors along the way.
 * Physics, mathematics, and/or similar sciences help, but they are not restraining! People with **engineering and technical inclinations** usually learn to think logically easily, because they already have the skills for solving problems, although not algorithmic. 
 * The ability **to solve programming tasks** (which requires algorithmic thinking) is extremely important for programmers. Many companies require only this skill in job interviews.
 
