@@ -4,6 +4,12 @@ Dear readers, many of you must have the ambition to become programmers, make a l
 
 Becoming a programmer (at the level of starting work in a software company) would take **at least 1-2 years of learning and writing code every day**, solving several thousand programming tasks, developing several practical projects, and gaining a lot of experience with code writing and software development. It's not possible for a month or two! The profession of software engineering requires a large amount of knowledge, backed by extensive practice. 
 
+## Video: Become a Software Engineer – 4 Essential Skills
+
+Watch a video lesson about SoftUni and SoftUni Judge here: https://youtu.be/Ds5PD3UW57k.
+
+## The 4 Essential Skills of the Software Developers
+
 There are **4 main skill groups** that all programmers must have. Most of these skills are preserved over time and are not significantly affected by the development of specific technologies (which change constantly). These are the skills that **every good programmer has** and which every rookie should aspire to obtain:
 * code writing (20%)
 * algorithmic thinking (30%)
