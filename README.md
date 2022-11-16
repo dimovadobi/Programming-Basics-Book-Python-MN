@@ -34,7 +34,8 @@ Download the book "**Programming Basics with Python**" in **PDF** format:
 ## Book Editions
 
 This book is available in several versions in different programming languages:
-* [Programming Basics with Python (Mongolian)]()
+* [Programming Basics with Python (Mongolian)](https://python-book.softuni.mn)
+* * [Programming Basics with Java (Mongolian)](https://java-book.softuni.mn)
 
 ## Book Details
 
