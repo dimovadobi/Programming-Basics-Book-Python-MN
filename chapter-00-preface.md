@@ -21,8 +21,9 @@ As we will explain more about later, the programming language you start with doe
 ## The Book in Other Programming Languages
 
 This programming book for complete beginners is available in several programming languages (or is in the process of being adapted for them):
-* [Programming Basics with Python (Mongolian)]()
-
+* [Programming Basics with Python (Mongolian)](https://python-book.softuni.mn)
+* [Programming Basics with Java (Mongolian)](https://java-book.softuni.mn)
+* 
 If you prefer a different language, choose from the list above.
 
 ## Programming is Learned by a Lot of Writing, Not Reading!
