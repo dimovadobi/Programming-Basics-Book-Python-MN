@@ -37,7 +37,7 @@ Keep in mind that **to become a programmer takes a lot of effort**, writing tens
 
 #### The SoftUni Curriculum for Software Engineers
 
-What follows after **enrolling** in the SoftUni program for training software engineers. It is formed as a sequence of **modules in several courses** in programming and software technologies, entirely directed towards gaining fundamental knowledge in software development and acquiring **practical skills for working** as a programmer with the most contemporary software technologies. Students are given a choice between **several professions** and specializations focused on C#, Java, JavaScript, Python, PHP, and other languages and technologies. Each profession is studied in several modules with 4 months duration, and each module consists of 2 or 3 courses. The classes are divided into **theoretical preparation** (30%) and **practical exercises, projects, and classes** (70%), and each course ends with a practical exam or practical academic project.
+SoftUni’s programs are designed as a **sequence of modules** giving you fundamental knowledge in software development and practical skills to prepare you to work as a programmer with the latest software technologies. The classes are divided into learning **theory** (30%) and doing **exercises and projects** (70%).
 
 #### SoftUni for People Who Work and Study
 
