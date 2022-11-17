@@ -10,7 +10,7 @@ The Software University provides **quality education**, **profession**, **job** 
 
 ## Video: SoftUni and SoftUni Judge
 
-Watch a video lesson about SoftUni and SoftUni Judge here: ![https://youtu.be/TDlDXnFCzoo](https://youtu.be/TDlDXnFCzoo).
+Watch a video lesson about SoftUni and SoftUni Judge here: [https://youtu.be/TDlDXnFCzoo](https://youtu.be/TDlDXnFCzoo).
 
 ## The Automated Judge System
 
