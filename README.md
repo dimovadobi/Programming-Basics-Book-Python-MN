@@ -26,10 +26,10 @@ The free book "**Programming Basics with Python**" introduces the readers to wri
 * [11. Tricks and Hacks](chapter-11-tricks-and-hacks.md)
 * [Conclusion](chapter-12-conclusion.md)
 
-## Download The Book
+<!-- ## Download The Book
 
 Download the book "**Programming Basics with Python**" in **PDF** format:
-* <a href="#">TODO</a>
+* <a href="#">TODO</a> -->
 
 ## Book Editions
 
