@@ -1,4 +1,4 @@
-* [Book "Programming Basics" with Python](README.md)
+* [Book "Programming Basics" with](README.md)
 * [Preface](chapter-00-preface.md)
 * [About SoftUni and SoftUni Judge](/chapter-00.1-about-softuni.md)
 * [How to Become a Software Developer?](chapter-00.2-how-to-become-a-programmer.md)
